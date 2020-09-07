@@ -23,7 +23,7 @@ import java.util.List;
  * @author wqy
  * @version 1.0
  * @date 2020/8/10 16:04
- * 1
+ * 12
  */
 public abstract class BaseService<T extends BaseDoMain,K extends BaseDao>{
 
