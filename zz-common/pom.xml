@@ -18,6 +18,8 @@
         <module>zz-redis</module>
         <module>zz-office</module>
         <module>zz-http</module>
+        <module>zz-netty</module>
+        <module>zz-domain</module>
     </modules>
 
 
